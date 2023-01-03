@@ -5,7 +5,6 @@ def check1(N):
 		Case1 = True
 	else:
 		Case1 = False
-
 	return Case1
 
 # for N pieces of any size
